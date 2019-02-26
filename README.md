@@ -1,3 +1,7 @@
+# Fork info
+
+Modifications targeting AWS as a Service Provider demo'ing multi-account -- weirdness.
+
 # Introduction
 
 This app provides a simple SAML Identity Provider (IdP) to test SAML 2.0 Service Providers (SPs) with the [SAML 2.0 Web Browser SSO Profile](http://en.wikipedia.org/wiki/SAML_2.0#Web_Browser_SSO_Profile) or the Single Logout Profile.
